@@ -7,6 +7,20 @@ color: #f7d6a5;
     text-align: center;
 }
 
+#bg-changer {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #8f5b39;
+    color: #a0d9ff;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
 button {
     background-color: #8f5b39;
     color: #f7d6a5;
